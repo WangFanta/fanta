@@ -1,2 +1,0 @@
-# fanta
-fanta repository
